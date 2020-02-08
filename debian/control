@@ -7,8 +7,7 @@ Standards-Version: 3.9.8
 Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-19.01-desktop
 
 Package: artwork-wallpapers-netrunner-19.01-desktop
-Architecture: all
-Multi-Arch: foreign
+Architecture: any
 Depends: ${misc:Depends}
 Provides: artwork-wallpapers-netrunner-desktop
 Description: artwork for netrunner-desktop 19.01
